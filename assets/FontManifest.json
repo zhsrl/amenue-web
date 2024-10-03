@@ -1,0 +1,19 @@
+[
+    {
+        "family": "Gilroy",
+        "fonts": [
+            {
+                "asset": "assets/fonts/gilroynormal.ttf"
+            },
+            {
+                "asset": "assets/fonts/gilroymedium.ttf"
+            },
+            {
+                "asset": "assets/fonts/gilroysemibold.ttf"
+            },
+            {
+                "asset": "assets/fonts/gilroybold.ttf"
+            }
+        ]
+    }
+]
